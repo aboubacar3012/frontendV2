@@ -10,8 +10,14 @@
     "test": "jest"
   },
   "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-native-fontawesome": "^0.3.2",
+    "@react-navigation/bottom-tabs": "^6.5.20",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/native-stack": "^6.9.26",
     "react": "18.2.0",
-    "react-native": "0.74.4"
+    "react-native": "0.74.4",
+    "react-native-svg": "^15.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
